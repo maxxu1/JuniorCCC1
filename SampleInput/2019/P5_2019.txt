@@ -1,0 +1,10 @@
+A AB
+B AB
+AB A
+2 ABAB AA
+
+
+AA AB
+AB BB
+B AA
+4 AB AAAB
