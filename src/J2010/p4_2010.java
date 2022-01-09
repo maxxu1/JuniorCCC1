@@ -48,7 +48,7 @@ public class p4_2010 {
 
     public static int[] createArrayOfDifference(int[] originArray, int n){
         int[] newArray = new int[n-1];
-        for(int i=0;i<n-1;n++){
+        for(int i=0;i<n-1;i++){
             newArray[i] = originArray[i+1]-originArray[i];
         }
         return newArray;
